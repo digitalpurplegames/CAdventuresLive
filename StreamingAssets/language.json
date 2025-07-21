@@ -106,7 +106,7 @@
     "question01optionA": "Recant and remain silent, for now.",
     "question01optionB": "Continue preaching religious freedom, no matter the cost.",
     "question01errorMessage": "You survive in Massachusetts, but your ideals die with you :(",
-    "question02statement": "Providence becomes the first colony to allow full religious freedom.\n\nYou’ve created Rhode Island, where even people can worship freely. Now you must decide how to govern.\n\n<size=120%><color=#DE4E4F><b>How do you organize the government?</b></color></size>",
+    "question02statement": "Providence becomes the first colony to allow full religious freedom.\n\nYou’ve created Rhode Island, where people can worship freely. Now you must decide how to govern.\n\n<size=120%><color=#DE4E4F><b>How do you organize the government?</b></color></size>",
     "question02optionA": "With a document guaranteeing civil and religious freedoms, separating church and state.",
     "question02optionB": "With a council of Puritan ministers to evaluate each religion.",
     "question02errorMessage": "Contradiction: you preached freedom, but created another system of control.",
